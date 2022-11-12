@@ -1,0 +1,32 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #191919;
+}
+
+.main {
+  width: 500px;
+  padding: 10px;
+  margin: auto;
+  color: white;
+}
+input {
+  padding: 10px;
+  margin: 5px;
+  font-size: 1em;
+}
+.btn {
+  border: none;
+}
+li {
+  padding: 10px;
+  margin-bottom: 5px;
+  border-bottom: 1.5px solid grey;
+}
+
+.label {
+  font-size: 0.7em;
+  color: grey;
+}
